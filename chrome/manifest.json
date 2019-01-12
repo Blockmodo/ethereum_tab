@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Ethereum Tab - Streaming price & market info.",
     "short_name": "Ethereum Tab",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Replace the New Tab with streaming price, news, community updates, and more.",
     "default_locale": "en",
     "icons": {
